@@ -65,10 +65,10 @@ function Last() {
                 />
               </a>
               <div className="p-1">
-                  <h5 className=" text-[20px] font-semibold tracking-tight text-gray-900 dark:text-white">
+                  <h5 className=" text-[20px] font-semibold tracking-tight text-black ">
                     {card.title}
                   </h5>
-                <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                <p className="mb-3 font-normal text-black ">
                   {card.description}
                 </p>
               </div>
