@@ -25,7 +25,7 @@ function Home() {
               <Button name="Contact" />
             </div>
           </div>
-          <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
+          <div class=" lg:mt-0 lg:col-span-5 lg:flex">
             <img
               src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
               alt="mockup"
