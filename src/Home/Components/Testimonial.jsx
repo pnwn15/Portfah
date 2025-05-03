@@ -57,7 +57,7 @@ function Testimonial() {
       <div className="w-full flex text-[36px] mb-4 font-semibold justify-center items-center text-center">
         Latest work
       </div>
-      <div className="w-full flex justify-center">
+      <div className="w-full flex mt-16 justify-center">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-screen-xl w-full px-4">
           {cards.map((card) => (
             <div
